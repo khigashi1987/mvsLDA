@@ -63,6 +63,7 @@ Each line indicates each document.
 Space-separated responses.
 
 E.g.)
+
 -3.42 1.90
 
 -8.80 3.74
