@@ -39,7 +39,8 @@ resp : An input file for response variables.
 model : a prefix for output model files.
 
 
-## A format for input files (doc)
+## A format for input files
+### doc
 
 Each line indicates each document.
 
@@ -53,6 +54,20 @@ E.g.)
 38:2 72:2 109:2 265:1
 
 18:1 40:1 98:1 251:1 265:3 411:1 743:1
+
+...
+
+### resp
+
+Each line indicates each document.
+Space-separated responses.
+
+E.g.)
+-3.42 1.90
+
+-8.80 3.74
+
+-3.37 -2.07
 
 ...
 
